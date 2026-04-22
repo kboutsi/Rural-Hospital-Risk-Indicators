@@ -63,7 +63,7 @@ This notebook: <br>
 - Does not require rebuilding the dataset from the raw files <br>
 #### Option 2
 Run the notebook 'Rural Hospital Risk Indicators Clean.ipynb' <br>
-This notebook: <br>
+This notebook inlcudes: <br>
 - Uses the raw dataset (data/raw/) <br>
 - Performs full data cleaning, merging, and feature engineering <br>
 - Recreates the final modeling dataset using the provided sample data <br>
